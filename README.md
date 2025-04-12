@@ -28,7 +28,6 @@ Soy un desarrollador de software con más de un año de experiencia creando solu
 
 - 📧 stevencajape2003@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/emersonsc)  
-- 💼 [Portafolio (próximamente)]()  
 - 📍 Guayaquil, Ecuador  
 
 ---
